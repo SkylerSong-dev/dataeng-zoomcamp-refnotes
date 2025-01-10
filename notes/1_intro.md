@@ -18,6 +18,7 @@
     - [Dockerizing the script](#dockerizing-the-script)
   - [Running Postgres and pgAdmin with Docker-compose](#running-postgres-and-pgadmin-with-docker-compose)
   - [SQL refresher](#sql-refresher)
+  - [Terminal Control Refresher](#terminal-control-refresher)
 - [Terraform and Google Cloud Platform](#terraform-and-google-cloud-platform)
   - [GCP initial setup](#gcp-initial-setup)
   - [GCP setup for access](#gcp-setup-for-access)
@@ -657,6 +658,13 @@ As a final note, SQL commands can be categorized into the following categories:
 
 _[Back to the top](#table-of-contents)_
 
+## Terminal Control Refresher
+1. Quit the Python prompt: Ctrl + D
+
+
+
+
+_[Back to the top](#table-of-contents)_
 # Terraform and Google Cloud Platform
 
 
